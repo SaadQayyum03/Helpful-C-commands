@@ -33,7 +33,7 @@ git clone https://github.com/SaadQayyum03/Helpful-C-commands.git
 
 Use this command to build and run your C program. Navigate to your project's root directory and execute:
 
-```bar **[_ _path to your main C++ file_ _]**```
+```bar [Path to your Main C++ file]```
 
 Or simply:
 
