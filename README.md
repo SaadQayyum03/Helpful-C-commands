@@ -23,7 +23,7 @@ git clone https://github.com/SaadQayyum03/Helpful-C-commands.git
 
 # How to use these commands
 
-- Build and Run Command (bar)
+## Build and Run Command (bar)
 
 Use this command to build and run your C program. Navigate to your project's root directory and execute:
 ```
