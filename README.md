@@ -9,12 +9,15 @@ These are some useful C commands I created, feel free to update them.
    - [Build and Run Command (`bar`)](#build-and-run-command-bar)
 
 ## Prerequisites
-- Make sure you have g++ installed and accessible in your system's PATH.
+- **g++**: Ensure you have g++ installed and accessible in your system's PATH.
 
 # How to install these commands
 
 1) Clone this Repository
-```git clone https://github.com/SaadQayyum03/Helpful-C-commands.git```
+```
+bash
+git clone https://github.com/SaadQayyum03/Helpful-C-commands.git
+```
 
 2) Add the folder you cloned to Enviromental Variables 
     - For Windows:
@@ -35,4 +38,9 @@ Use this command to build and run your C program. Navigate to your project's roo
 Or simply:
 ```bar```
 
-if your main file is named 'main.cpp'. This command compiles the main file using g++ and outputs the executable to a bin folder, which is created if it doesn't already exist.
+If your main file is named 'main.cpp'. This command compiles the main file using g++ and outputs the executable to a bin folder, which is created if it doesn't already exist.
+
+
+## Contact
+Saad Qayyum - s.qayyum2003@gmail.com
+Project Link: https://github.com/SaadQayyum03/Helpful-C-commands
