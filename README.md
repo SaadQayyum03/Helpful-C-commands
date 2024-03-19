@@ -15,7 +15,6 @@ These are some useful C commands I created, feel free to update them.
 
 1) Clone this Repository
 ```
-bash
 git clone https://github.com/SaadQayyum03/Helpful-C-commands.git
 ```
 
@@ -33,10 +32,14 @@ git clone https://github.com/SaadQayyum03/Helpful-C-commands.git
 ### Build and Run Command (bar)
 
 Use this command to build and run your C program. Navigate to your project's root directory and execute:
-```bar [path to your main C++ file]```
+```
+bar [path to your main C++ file]
+```
 
 Or simply:
-```bar```
+```
+bar
+```
 
 If your main file is named 'main.cpp'. This command compiles the main file using g++ and outputs the executable to a bin folder, which is created if it doesn't already exist.
 
