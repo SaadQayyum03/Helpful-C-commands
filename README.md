@@ -32,18 +32,17 @@ git clone https://github.com/SaadQayyum03/Helpful-C-commands.git
 ### Build and Run Command (bar)
 
 Use this command to build and run your C program. Navigate to your project's root directory and execute:
-```
-bar [path to your main C++ file]
-```
+
+```bar **[_ _path to your main C++ file_ _]**```
 
 Or simply:
-```
-bar
-```
+
+```bar```
 
 If your main file is named 'main.cpp'. This command compiles the main file using g++ and outputs the executable to a bin folder, which is created if it doesn't already exist.
 
 
 ## Contact
 Saad Qayyum - s.qayyum2003@gmail.com
+
 Project Link: https://github.com/SaadQayyum03/Helpful-C-commands
